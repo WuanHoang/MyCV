@@ -1,0 +1,64 @@
+
+html {
+    font-family: 'Roboto', sans-serif !important;
+}
+img {
+    padding-top: 10px;
+    width: 80px;
+    height: auto;
+    object-fit: contain;
+}
+p{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400;
+}
+#general-information{
+    font-size: 14px;
+    padding: 2px 1px 2px 1px;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400;
+    color: white;
+    background-color: #454545;
+}
+#information{
+    font-size: 11px;
+    text-align: left;
+}
+#icon{
+    color: #454545;
+    padding-right: 8px;
+}
+#bolding-information{
+    font-weight: 500;
+    font-size: 10px;
+    text-align: left;
+    margin-bottom: 0;
+}
+#big-name-box{
+    background-color: #454545;
+    width: 100%;
+    height: 130px;
+
+}
+#name{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 600;
+    color: white;
+}
+#description{
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+}
+#name-description{
+    padding-top: 30px;
+    padding-right: 4px;
+    color: white;
+}
+#bigLine-description{
+    color: #B98879;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 14px;
+    margin-bottom: 1px;
+}
